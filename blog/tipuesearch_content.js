@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"About","text":"CMSimfly 內容管理網誌 課程倉儲: https://github.com/chiamingyen/chiamingyen.github.io 內容管理: https://chiamingyen.github.io 課程投影片: https://chiamingyen.github.io/reveal 課程網誌: https://chiamingyen.github.io/blog","tags":"misc","url":"./pages/about/"},{"title":"2025","text":"2025 2025","tags":"Misc","url":"./2025-Yens-Website.html"}]};
